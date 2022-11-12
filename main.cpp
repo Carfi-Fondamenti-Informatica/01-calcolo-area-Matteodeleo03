@@ -3,7 +3,9 @@ using namespace std;
 
 int main(){
 //Qui vanno definite le variabili
-float a, b, c;
+float a;
+float b;
+float c;  
 cin >> a >> b >> c;
 
 //Qui va scritto il codice per eseguire i calcoli richiesti
